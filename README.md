@@ -64,7 +64,7 @@ This was a collaborative educational project within the **UC Davis AI Student Co
 
 ##  File Description
 
-- `Untitled0.ipynb` – Full project notebook with code, visualizations, and results
+- `Untitled0.ipynb` – Full project notebook with code, visualizations, and resultss
 
 ##  License
 
